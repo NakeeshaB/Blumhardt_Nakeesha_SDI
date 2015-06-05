@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e111f12-087a-41cc-9c2f-1fc775dd8380" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/firstFile.html" afterPath="" />
-    </list>
+    <list default="true" id="4e111f12-087a-41cc-9c2f-1fc775dd8380" name="Default" comment="" />
     <ignored path="Blumhardt_Nakeesha_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,6 +90,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">

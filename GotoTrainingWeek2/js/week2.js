@@ -44,12 +44,12 @@ console.log(yearsMore);
 
 //future age is current age + years in the future
 //Cast the variable as a number when using a +
-var futureAge = age + parseInt(yearsMore) ;
+var futureAge = age + Number(  yearsMore) ;
 
 console.log(futureAge);
 
 //console.log and alert the final values
 
-console.log("In" + yearsMore+" years, you will be "  +  futureAge + ".") ;
+console.log("In" +  yearsMore +" years, you will be "  +  futureAge + ".") ;
 
-alert("In" + yearsMore+" years, you will be "  +  futureAge + ".");
+alert(" In " +      yearsMore + " years, you will be "  +  futureAge + ".");

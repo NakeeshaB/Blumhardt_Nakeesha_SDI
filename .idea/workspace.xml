@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e111f12-087a-41cc-9c2f-1fc775dd8380" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GotoTrainingWeek2/goToTrainingWeek2.html" afterPath="$PROJECT_DIR$/GotoTrainingWeek2/goToTrainingWeek2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GotoTrainingWeek2/js/week2.js" afterPath="$PROJECT_DIR$/GotoTrainingWeek2/js/week2.js" />
     </list>
     <ignored path="Blumhardt_Nakeesha_SDI.iws" />
@@ -24,21 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="goToTrainingWeek2.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="goToTrainingWeek2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GotoTrainingWeek2/goToTrainingWeek2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25">
+            <state vertical-scroll-proportion="0.5154639">
               <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="week2.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="week2.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GotoTrainingWeek2/js/week2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71428573">
-              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -77,8 +76,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="405" />
-    <option name="y" value="353" />
+    <option name="x" value="278" />
+    <option name="y" value="399" />
     <option name="width" value="1047" />
     <option name="height" value="412" />
   </component>
@@ -247,7 +246,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="405" y="353" width="1047" height="412" extended-state="0" />
+    <frame x="278" y="399" width="1047" height="412" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33428845" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -285,21 +284,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GotoTrainingWeek2/goToTrainingWeek2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GotoTrainingWeek2/js/week2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71428573">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GotoTrainingWeek2/goToTrainingWeek2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5154639">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>

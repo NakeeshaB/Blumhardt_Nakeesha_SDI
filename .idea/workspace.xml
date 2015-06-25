@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e111f12-087a-41cc-9c2f-1fc775dd8380" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/js/expressionsAssignment.js" afterPath="$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/js/expressionsAssignment.js" />
-    </list>
+    <list default="true" id="4e111f12-087a-41cc-9c2f-1fc775dd8380" name="Default" comment="" />
     <ignored path="Blumhardt_Nakeesha_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,24 +21,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="expressionsAssignment.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/expressionsAssignment.html">
+      <file leaf-file-name="gotoWeek3.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/js/gotoWeek3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.46153846">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="expressionsAssignment.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/js/expressionsAssignment.js">
+      <file leaf-file-name="GotoWeek3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/GotoWeek3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65384614">
-              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-4.375">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -51,9 +47,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Keeshas JS Example for week 2" />
+        <option value="JavaScript File" />
         <option value="Nakeeshas JS Template" />
         <option value="Html5" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -76,6 +72,8 @@
         <option value="$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/expressionsAssignment JS/expressions Assignment.html" />
         <option value="$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/expressionsAssignment.html" />
         <option value="$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/js/expressionsAssignment.js" />
+        <option value="$PROJECT_DIR$/GoToTrainingWeek3/GotoWeek3.html" />
+        <option value="$PROJECT_DIR$/GoToTrainingWeek3/js/gotoWeek3.js" />
       </list>
     </option>
   </component>
@@ -87,8 +85,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-4" />
-    <option name="y" value="494" />
+    <option name="y" value="557" />
     <option name="width" value="1440" />
     <option name="height" value="357" />
   </component>
@@ -144,7 +141,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="GotoTrainingWeek2" />
+              <option name="myItemId" value="GoToTrainingWeek3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -158,57 +155,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="GotoTrainingWeek2" />
+              <option name="myItemId" value="GoToTrainingWeek3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blumhardt_Nakeesha_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blumhardt_Nakeesha_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blumhardt_Nakeesha_Expressions_Assignment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blumhardt_Nakeesha_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blumhardt_Nakeesha_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blumhardt_Nakeesha_Expressions_Assignment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blumhardt_Nakeesha_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blumhardt_Nakeesha_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AssociatedJs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -270,6 +221,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4e111f12-087a-41cc-9c2f-1fc775dd8380" name="Default" comment="" />
@@ -280,7 +234,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="494" width="1440" height="357" extended-state="0" />
+    <frame x="0" y="557" width="1440" height="357" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11111111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -355,21 +309,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/js/expressionsAssignment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/expressionsAssignment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/js/expressionsAssignment.js">
+    <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/GotoWeek3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65384614">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/js/gotoWeek3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46153846">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

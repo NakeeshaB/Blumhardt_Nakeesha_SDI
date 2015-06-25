@@ -18,6 +18,10 @@ alert("Hi "+name+  ", Let's get started");
 //console.log user name
 console.log(name)
 
+//Ask the user to select the number of children they have or expected to have in childcare
+alert(name+ " ,how many children do you expect to have in childcare? Please select from the drop down below.");
+
+
 
 
 

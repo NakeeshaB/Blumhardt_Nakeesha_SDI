@@ -36,10 +36,23 @@ var weeklyTotal = Number(kids)* Number(costperweek);
 //alert the user of weekly childcare cost
 alert(name + " ,you pay an estimated amount of $"+Number(weeklyTotal)+ " for weekly childcare.");
 
-// Calculate monthly cost of child car
+// Calculate monthly cost of childcare
 
 var monthlycost = Number(kids)* Number(costperweek)*4;
+
 //alert the user of monthly cost
-alert(name+", you pay an estimated amount of $ "+Number(monthlycost)+" per month for childcare.");
+alert(name+", you pay an estimated amount of $ " +Number(monthlycost)+ " per month for childcare.");
 
 console.log(monthlycost);
+
+//Calculate yearly cost of childcare
+
+var yearlycost = Number(kids)*Number(costperweek)*54;
+
+//alert user of yearly cost
+alert(name+", you pay an estimated amount of $" +Number(yearlycost)+ " per year for childcare.");
+
+console.log(yearlycost);
+
+
+

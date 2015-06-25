@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e111f12-087a-41cc-9c2f-1fc775dd8380" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AssociatedJs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AssociatedJs/js/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/index.html/Blumhardt_Nakeesha_Expressions_Assignment.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/js/Blumhardt_Nakeesha_Expressions_Assignment.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/js/expressionsAssignment.js" afterPath="$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/js/expressionsAssignment.js" />
     </list>
     <ignored path="Blumhardt_Nakeesha_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,21 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="expressionsAssignment.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="expressionsAssignment.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/expressionsAssignment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44491526">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state vertical-scroll-proportion="-5.0">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="expressionsAssignment.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="expressionsAssignment.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/js/expressionsAssignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.8076923">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -78,8 +74,8 @@
         <option value="$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/expressionsAssignment JS/Expressions Assignment.js" />
         <option value="$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/expressionsAssignment JS/Blumhardt_Nakeesha_Expressions_Assignment.js" />
         <option value="$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/expressionsAssignment JS/expressions Assignment.html" />
-        <option value="$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/js/expressionsAssignment.js" />
         <option value="$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/expressionsAssignment.html" />
+        <option value="$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/js/expressionsAssignment.js" />
       </list>
     </option>
   </component>
@@ -91,8 +87,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="93" />
-    <option name="y" value="494" />
+    <option name="x" value="-47" />
+    <option name="y" value="128" />
     <option name="width" value="1440" />
     <option name="height" value="357" />
   </component>
@@ -284,7 +280,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="93" y="494" width="1440" height="357" extended-state="0" />
+    <frame x="-47" y="128" width="1440" height="357" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -359,21 +355,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/js/expressionsAssignment.js">
+    <entry file="file://$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/expressionsAssignment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/expressionsAssignment.html">
+    <entry file="file://$PROJECT_DIR$/Blumhardt_Nakeesha_Expressions_Assignment/js/expressionsAssignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44491526">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
+        <state vertical-scroll-proportion="0.8076923">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -47,12 +47,18 @@ console.log(monthlycost);
 
 //Calculate yearly cost of childcare
 
-var yearlycost = Number(kids)*Number(costperweek)*54;
+var yearlyCost = Number(kids)*Number(costperweek)*54;
 
 //alert user of yearly cost
-alert(name+", you pay an estimated amount of $" +Number(yearlycost)+ " per year for childcare.");
+alert(name+", you pay an estimated amount of $" +Number(yearlyCost)+ " per year for childcare.");
 
-console.log(yearlycost);
+console.log(yearlyCost);
+
+// I typed in 2 children at 100.00 per child a week and my calculations gave me 200(Week) 800(Month) 10800(Year)
+//I typed in 1 child at 350 per child per week and my calculations gave me 350(week) 1400(Month) 18900(Year)
+
+
+
 
 
 

@@ -26,7 +26,7 @@
       <file leaf-file-name="GotoWeek3.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/GotoWeek3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.4583335">
+            <state vertical-scroll-proportion="-5.625">
               <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
@@ -36,8 +36,8 @@
       <file leaf-file-name="gotoWeek3.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/js/gotoWeek3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.53846157">
-              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.65384614">
+              <caret line="87" column="1" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -262,7 +262,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/GoToTrainingWeek3/js/gotoWeek3.js</url>
+          <line>45</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -331,7 +339,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/GotoWeek3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.4583335">
+        <state vertical-scroll-proportion="-5.625">
           <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
@@ -339,8 +347,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/js/gotoWeek3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53846157">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.65384614">
+          <caret line="87" column="1" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
           <folding />
         </state>
       </provider>

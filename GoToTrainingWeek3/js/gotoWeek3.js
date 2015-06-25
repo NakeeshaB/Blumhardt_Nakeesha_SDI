@@ -39,15 +39,55 @@ GoToTrainingWeek 3
  //"7"=== 7 - false
  //prompts always return  text strings!!
 
- if(bowlOfFruit[0])=== "pear"){
+ if(bowlOfFruit[0])=== "pear") {
    //This code will run if true
    // Add 1 to the total number of pears
    console.log("This item is a pear!");
-     totalNumPears++;//totalNumPears =totalNumPears + 1;
+     totalNumPears++; //totalNumPears = totalNumPears + 1;
  } else {
      console.log("This fruit is not a pear.");
 
  }
+
+ if(bowlOfFruit[1])=== "pear") {
+     //This code will run if true
+     // Add 1 to the total number of pears
+     console.log("This item is a pear!");
+     totalNumPears++; //totalNumPears = totalNumPears + 1;
+ } else {
+     console.log("This fruit is not a pear.");
+
+ }
+
+ if(bowlOfFruit[2])=== "pear") {
+     //This code will run if true
+     // Add 1 to the total number of pears
+     console.log("This item is a pear!");
+     totalNumPears++; //totalNumPears = totalNumPears + 1;
+ } else {
+     console.log("This fruit is not a pear.");
+
+ }
+
+ if(bowlOfFruit[3])=== "pear") {
+     //This code will run if true
+     // Add 1 to the total number of pears
+     console.log("This item is a pear!");
+     totalNumPears++; //totalNumPears = totalNumPears + 1;
+ } else {
+     console.log("This fruit is not a pear.");
+
+ }
+
+console.log("There are"+totalNumPears+" in the fruit bowl.");
+
+ //create another variable to track pears
+ var pearNumber = 0:
+
+// Create a loop for repetitive code.
+ 
+
+
 
 
 

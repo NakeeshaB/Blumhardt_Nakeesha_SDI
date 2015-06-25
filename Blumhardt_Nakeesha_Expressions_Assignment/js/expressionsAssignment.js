@@ -24,3 +24,7 @@ prompt(name+ ",how many children do you expect to have in childcare?");
 //Arrays
 var numberofChildren = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"];
 console.log(numberofChildren[2]);
+
+//figure out weekly cost for each child
+var costperweek= prompt
+("What is the estimated cost per week per child?");

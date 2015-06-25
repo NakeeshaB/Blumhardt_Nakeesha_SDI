@@ -22,5 +22,5 @@ console.log(name)
 prompt(name+ ",how many children do you expect to have in childcare?");
 
 //Arrays
-var numberofChildren = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"];
-console.log(numberofChildren[3]);
+var numberofChildren = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"];
+console.log(numberofChildren[2]);

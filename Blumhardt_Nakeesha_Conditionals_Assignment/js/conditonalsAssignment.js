@@ -30,14 +30,13 @@ Conditionals Assignment
 
  var name = prompt("Good Afternoon, may I ask your name? " + name);
 
+ if(name === ""){
+  name = prompt("Please type out your name and press okay");
+ }
  //Alert user that you are going to play quiz game
 
  alert( name+  "  ,We are going to play a little quiz game.  Enter your answer after the questions.");
  console.log(name);
-
- if(name === ""){
-  name = prompt("Please add your name and press okay");
- }
 
  var quiz1 = prompt("If two people in a room shakes hands with every " +
      "person once, how many total handshakes happen?");
@@ -53,6 +52,9 @@ Conditionals Assignment
  var quiz6 = prompt("On my way to St. Ives I saw a man with 7 wives.Each wife had 7 sacks. " +
      "Each sack had 7 cats.Each cat had 7 kittens. Kitten, cats, sacks, wives. " +
      "How many were going to St. Ives?");
+ if(quiz6 === ""){
+  quiz6 = prompt("Please enter a numerical number");
+ }
  var quiz7 =prompt("This famous show on TLC has how many kids and counting?");
 
  alert( name+  "  ,This is the end of the quiz now let's see how well you did?");

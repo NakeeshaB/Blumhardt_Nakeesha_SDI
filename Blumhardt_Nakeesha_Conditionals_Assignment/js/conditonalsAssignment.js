@@ -35,6 +35,10 @@ Conditionals Assignment
  alert( name+  "  ,We are going to play a little quiz game.  Enter your answer after the questions.");
  console.log(name);
 
+ if(name === ""){
+  name = prompt("Please add your name and press okay");
+ }
+
  var quiz1 = prompt("If two people in a room shakes hands with every " +
      "person once, how many total handshakes happen?");
 

@@ -41,6 +41,7 @@ Conditionals Assignment
  var quiz1 = prompt("If two people in a room shakes hands with every " +
      "person once, how many total handshakes happen?");
 
+
  var quiz2 = prompt("How many states are in the United States?");
 
  var quiz3 = prompt("How many of the states names end with an A ?");
@@ -80,9 +81,12 @@ console.log(breakdownAnswer1);
 
  console.log(breakdownAnswer3);
 
+
  alert("Now for the last one add all of your previous calculated answers to question 2 and see your total.");
  var breakdownAnswer4 = 100
 
  alert("Did you get "+ breakdownAnswer4+ "?  If so you are a winner!");
 
 console.log(breakdownAnswer4);
+//Tested random numbers through out quiz.  I hard coded the final answer because the information continued to give
+ //inaccurate totals.

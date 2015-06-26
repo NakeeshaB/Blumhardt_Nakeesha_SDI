@@ -38,6 +38,7 @@ Conditionals Assignment
 
 alert("Multiply quiz 4 answer by 2");
 var breakdownAnswer1 =(+quiz4*2);
+console.log(breakdownAnswer1);
 
  alert("The answer is " + breakdownAnswer1);
 
@@ -45,7 +46,16 @@ var breakdownAnswer1 =(+quiz4*2);
  var breakdownAnswer2 = Number(quiz1)+ Number(quiz6) + Number(quiz7);
 
  alert("The answer is " +breakdownAnswer2);
+ console.log(breakdownAnswer2);
 
+ alert("Add the number from the previous screen to quiz number 3");
+ var breakdownAnswer3 = Number(quiz1)+ Number(quiz6) + Number(quiz7)+ Number(quiz3);
 
+ alert("The answer is " + breakdownAnswer3);
 
+ alert("Now for the last one add all of your previous calculated answer to question 2 and see your total.");
+ var breakdownAnswer4 = Number(quiz1)+ Number(quiz2) + Number(quiz3)+ Number(quiz4)+ Number(quiz5)+ Number(quiz6)
+     +Number(quiz7);
+
+ alert("Did you get "+ breakdownAnswer4+ "?  If so you are a winner!");
 

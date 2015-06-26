@@ -10,6 +10,11 @@ Conditionals Assignment
 
  //Greet user and ask for their name
 
+ var famousGreetings = ["good morning","good afternoon","hello","hi","hey","guten tag","guten morgen","bonjour"];
+
+ console.log(famousGreetings);
+ console.log(famousGreetings[1]);
+
  var name = prompt("Good After noon, may I ask your name? " + name);
 
  //Alert user that you are going to play quiz game

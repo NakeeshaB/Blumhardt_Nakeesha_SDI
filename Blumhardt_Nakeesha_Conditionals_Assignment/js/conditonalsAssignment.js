@@ -32,6 +32,19 @@ Conditionals Assignment
      "How many were going to St. Ives?");
  var quiz7 =prompt("This famous show on TLC has how many kids and counting?");
 
+ alert( name+  "  ,This is the end of the quiz now let's see how well you did?");
+
+ // alert the user to add or multiply the answers to each quiz for the total answers
+
+alert("Multiply quiz 4 answer by 2");
+var breakdownAnswer1 =(+quiz4*2);
+
+ alert("The answer is " + breakdownAnswer1);
+
+ alert(" Add your answers together for questions 1,6,and 7.");
+ var breakdownAnswer2 = Number(quiz1)+ Number(quiz6) + Number(quiz7);
+
+ alert("The answer is " +breakdownAnswer2);
 
 
 

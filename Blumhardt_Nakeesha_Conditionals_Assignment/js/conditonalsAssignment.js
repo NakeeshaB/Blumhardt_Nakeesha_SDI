@@ -13,9 +13,22 @@ Conditionals Assignment
  var famousGreetings = ["good morning","good afternoon","hello","hi","hey","guten tag","guten morgen","bonjour"];
 
  console.log(famousGreetings);
- console.log(famousGreetings[1]);
+ console.log(famousGreetings[5]);
+ if(famousGreetings[5]==="hey"){console.log("This is guten tag");
+  famousGreetings2--;
+ }else {
+  console.log("This is not guten tag.");
+ }
 
- var name = prompt("Good After noon, may I ask your name? " + name);
+ console.log(famousGreetings);
+ console.log(famousGreetings[7]);
+ if(famousGreetings[7]===""){console.log("This is bonjour");
+  famousGreetings2++;
+ }else {
+  console.log("This is bonjour.");
+ }
+
+ var name = prompt("Good Afternoon, may I ask your name? " + name);
 
  //Alert user that you are going to play quiz game
 

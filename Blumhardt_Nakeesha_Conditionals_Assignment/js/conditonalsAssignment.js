@@ -15,6 +15,7 @@ Conditionals Assignment
  //Alert user that you are going to play quiz game
 
  alert( name+  "  ,We are going to play a little quiz game.  Enter your answer after the questions.");
+ console.log(name);
 
  var quiz1 = prompt("If two people in a room shakes hands with every " +
      "person once, how many total handshakes happen?");
@@ -53,9 +54,11 @@ console.log(breakdownAnswer1);
 
  alert("The answer is " + breakdownAnswer3);
 
- alert("Now for the last one add all of your previous calculated answer to question 2 and see your total.");
- var breakdownAnswer4 = Number(quiz1)+ Number(quiz2) + Number(quiz3)+ Number(quiz4)+ Number(quiz5)+ Number(quiz6)
-     +Number(quiz7);
+ console.log(breakdownAnswer3);
+
+ alert("Now for the last one add all of your previous calculated answers to question 2 and see your total.");
+ var breakdownAnswer4 = 100
 
  alert("Did you get "+ breakdownAnswer4+ "?  If so you are a winner!");
 
+console.log(breakdownAnswer4);
